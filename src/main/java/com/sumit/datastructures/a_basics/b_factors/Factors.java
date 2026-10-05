@@ -28,7 +28,7 @@ public class Factors {
         for (int i = 1; i <= Math.sqrt(num); i++) {
             if(num % i == 0){
                 // to prevent condition like factors of 36, where 1 set will be 6 * 6. so to reduce duplicate factors
-                if(num/i == i)
+                if(i == num/i)
                     System.out.print(i + " ");
                 else
                     System.out.print(i + " " + num/i + " ");
