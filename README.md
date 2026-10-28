@@ -1,5 +1,5 @@
 # DataStructures and Algorithms
-Implementations of all the Data Structures and Algorithms Topics - 
+Implementations of Data Structures and Algorithms topics - 
 
 <ul>
     <li> Array </li>
